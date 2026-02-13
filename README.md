@@ -13,4 +13,4 @@ This is the second lab in a series of challenge rooms from TryHackMe. The threat
 
 ## Project Document
 
-<a href="https://github.com/ivanszeto11/Boogeyman-1-Lab/blob/main/Boogeyman%201%20THM%20Write-Up.pdf">Boogeyman 1 Write-Up</a>
+<a href="https://github.com/ivanszeto11/Boogeyman-2-Lab/blob/main/Boogeyman%202%20THM%20Write-Up.pdf">Boogeyman 2 Write-Up</a>
